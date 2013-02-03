@@ -1,2 +1,0 @@
-lanzhou-university.github.com
-=============================
